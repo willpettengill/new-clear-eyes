@@ -1,4 +1,4 @@
-
+#### Contingency Supplies is a network of researchers, outdoorsmen and citizens 
 
 ![Dry Bags][logo1]: https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=dry+bags
 
